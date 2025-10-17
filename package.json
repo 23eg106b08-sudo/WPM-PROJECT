@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "cross-env PORT=3002 node ./bin/www",
-    "dev": "cross-env PORT=3002 nodemon ./bin/www"
+    "start": "cross-env PORT=3003 node ./bin/www",
+    "dev": "cross-env PORT=3003 nodemon ./bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
